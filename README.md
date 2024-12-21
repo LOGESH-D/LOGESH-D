@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align ="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F72469&width=550&lines=%F0%9F%91%8B+Hey%2C+I'm+Logesh.+You+are+Welcome+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+</p>
 <!--
 **LOGESH-D/LOGESH-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
