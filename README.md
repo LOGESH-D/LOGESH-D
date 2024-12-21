@@ -4,16 +4,16 @@
 
 I'm logesh, a B.Tech Computer Science and Business Systems student with a strong passion for both IoT and Web Development. I love combining my knowledge of hardware and software to create innovative solutions. Here's a look at my projects and skills:
 
-🔧 **PROJECTS & SKILLS:**
-**IoT Expertise:**
-  Built a Smart Waste Management System using Arduino, GSM modules, and Ultrasonic sensors to optimize waste collection and improve city infrastructure.
-**Full Stack Web Development:**
-  Proficient in HTML, CSS, JavaScript, and MySQL to design and develop dynamic and user-friendly web applications.
+🔧 **PROJECTS & SKILLS:**<br>
+**IoT Expertise:**<br>
+  Built a Smart Waste Management System using Arduino, GSM modules, and Ultrasonic sensors to optimize waste collection and improve city infrastructure.<br>
+**Full Stack Web Development:**<br>
+  Proficient in HTML, CSS, JavaScript, and MySQL to design and develop dynamic and user-friendly web applications.<br>
 
-💻 **TECHNICAL SKILLS:**
-  Languages: HTML, CSS, JavaScript, Python, C++, DBMS.
-  Databases: MySQL, MongoDB.
-  Tools: Arduino, GSM, IoT sensors.
+💻 **TECHNICAL SKILLS:**<br>
+  Languages: HTML, CSS, JavaScript, Python, C++, DBMS.<br>
+  Databases: MySQL, MongoDB.<br>
+  Tools: Arduino, GSM, IoT sensors.<br>
 
 
 <!--
